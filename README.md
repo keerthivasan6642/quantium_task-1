@@ -1,2 +1,2 @@
-# quantium_task-1
-Data preparation and Customer analytics
+# Quantium_Virtual_Internship
+My submission for quantium virtual internship (on insidesherpa) on data analytics
